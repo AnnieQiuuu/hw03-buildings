@@ -1,5 +1,13 @@
 # CIS 5660 HW03 Procedural Buildings
 
+## Description
+This project is a procedural building generator by Houdini. It allows users to create complex buildings with simple user-friendly parameters. The Houdini Digital Asset created embedded in hip file and can be used to generate multi-story buildings where users can control aspects such as the number of floors, the dimensions of each floor, and additional elements like windows, doors, balconies, pillars, and supports. The procedural nature of the tool allows users to quickly iterate and customize the look of their buildings.
+
+## Demo
+![](./demo.png)
+
+[Demo Video Link](https://www.youtube.com/watch?v=KsIwON0L66c)
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
